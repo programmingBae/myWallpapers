@@ -1,1 +1,1 @@
-# Disclaimer: the photos used in this post do not belong to me.
+# Disclaimer: the photos used in this repo do not belong to me.
